@@ -129,6 +129,9 @@ span{
 .home-section-tech{
     margin: 1rem;
 }
+.home-section-tech p{
+    margin-bottom: 1rem;
+}
 .btn-pink{ 
     background-color: #e84949;
     width: fit-content;
